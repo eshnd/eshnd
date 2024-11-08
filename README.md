@@ -1,9 +1,9 @@
 ```c++
 void eshnd(){
-  std::string interests[] = {'programming', 'computers', 'cartoons'};
-  std::string* consistency = nullptr;
-  std::string* motivation = nullptr;
-  std::string* focus = nullptr;
+  string interests[] = {"programming", "computers", "cartoons"};
+  string* consistency = nullptr;
+  string* motivation = nullptr;
+  string* focus = nullptr;
 }
 
 ```
