@@ -1,8 +1,8 @@
-```c++
+```c++ but actually c
 void eshnd(){
-  string interests[] = {"programming", "computers", "cartoons"};
-  string* motivation = nullptr;
-  string* focus = nullptr;
+  char interests[] = {"programming", "computers", "cartoons"};
+  char* motivation = nullptr;
+  char* focus = nullptr;
   double hate_for_java = INFINITY;
 }
 
