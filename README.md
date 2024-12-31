@@ -1,4 +1,4 @@
-```c++
+```c
 void eshnd(){
   string interests[] = {"programming", "computers", "cartoons"};
   string* motivation = nullptr;
