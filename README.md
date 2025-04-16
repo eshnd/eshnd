@@ -2,7 +2,7 @@
 void eshnd(){
   char interests[3] = {"coding", "cartoons", "games"};
   int* coolness = NULL;
-  int happiness = INT_MAX;
+  int happiness = random(INT_MIN, INT_MAX);
   char* pfp_creator = "https://mimi-saurio.tumblr.com/";
 }
 
